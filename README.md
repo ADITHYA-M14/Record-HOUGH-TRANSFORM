@@ -44,8 +44,8 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 ## Program 
 ##  Developed By
 
-* **Name:** MIDHUN S
-* **Register No:** 212224230158
+* **Name:** Adithya M
+* **Register No:** 212224230008
 
   
 ### Input image and grayscale image
@@ -58,8 +58,7 @@ plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
 plt.title('Input Image')
 plt.axis('off')
 ```
-<img width="617" height="396" alt="image" src="https://github.com/user-attachments/assets/df2dcd4b-930d-419c-a5d8-7b9b9b414f7a" />
-
+<img width="515" height="319" alt="image" src="https://github.com/user-attachments/assets/c8707a08-7a86-4a2c-82ff-6d057931e177" />
 
 
 ```
@@ -68,7 +67,8 @@ plt.imshow(gray_image, cmap='gray')
 plt.title('Grayscale Image')
 plt.axis('off')
 ```
-<img width="617" height="391" alt="image" src="https://github.com/user-attachments/assets/cd48b1ec-3821-4a46-8a59-e12bc4039b2f" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/e13d1263-443b-4ee5-a918-ffdf97ea9194" />
+
 
 
 ### Canny Edge detector output
@@ -78,7 +78,7 @@ plt.imshow(edges, cmap='gray')
 plt.title("Canny Edge Detector")
 plt.axis('off')
 ```
-<img width="617" height="406" alt="image" src="https://github.com/user-attachments/assets/43c0aa85-3eca-4302-a785-92b3c8e439de" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/62e06fe8-fdd7-4498-9988-262c3010115b" />
 
 
 
@@ -98,7 +98,7 @@ plt.axis('off')
 
 ```
 
-<img width="625" height="403" alt="image" src="https://github.com/user-attachments/assets/e27721aa-86a5-4478-9262-3e9868644d3c" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/2890079a-fcbb-4ffd-a895-fe16263ad78e" />
 
 ---
 
